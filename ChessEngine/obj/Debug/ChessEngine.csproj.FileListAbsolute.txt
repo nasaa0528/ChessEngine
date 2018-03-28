@@ -1,0 +1,7 @@
+C:\Users\Windows 7\source\repos\ChessEngine\ChessEngine\bin\Debug\ChessEngine.exe.config
+C:\Users\Windows 7\source\repos\ChessEngine\ChessEngine\bin\Debug\ChessEngine.exe
+C:\Users\Windows 7\source\repos\ChessEngine\ChessEngine\bin\Debug\ChessEngine.pdb
+C:\Users\Windows 7\source\repos\ChessEngine\ChessEngine\obj\Debug\ChessEngine.csprojResolveAssemblyReference.cache
+C:\Users\Windows 7\source\repos\ChessEngine\ChessEngine\obj\Debug\ChessEngine.csproj.CoreCompileInputs.cache
+C:\Users\Windows 7\source\repos\ChessEngine\ChessEngine\obj\Debug\ChessEngine.exe
+C:\Users\Windows 7\source\repos\ChessEngine\ChessEngine\obj\Debug\ChessEngine.pdb
